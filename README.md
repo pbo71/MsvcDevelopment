@@ -1,0 +1,2 @@
+# MsvcDevelopment
+Smal VisualStudio projects
